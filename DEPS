@@ -7,3 +7,4 @@ tex-pk02
 tex-space
 tex-tech
 tex-trak5
+tex-vega
